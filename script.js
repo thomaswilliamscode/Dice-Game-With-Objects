@@ -1,5 +1,7 @@
 /* this will use an object to do the dice game */
 
+
+
 // first we set our object
 const diceGame = {
   //global variables
@@ -187,4 +189,4 @@ const runTaZero = () => diceGame.playToZero();
 //run();
 runTaZero();
 
-
+// Testing 
